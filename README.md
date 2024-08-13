@@ -7,4 +7,6 @@ Generating audio story from uploaded images
 2. open your terminal and write
   ```bash
     streamlit run image_to_text.py
+  ```
+P/S: Dont forget to add your API!!!
   
